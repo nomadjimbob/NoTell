@@ -1,0 +1,7 @@
+---
+op-send: true
+op-recv: true
+
+player-send:
+  SLQPlayer1: true
+...
